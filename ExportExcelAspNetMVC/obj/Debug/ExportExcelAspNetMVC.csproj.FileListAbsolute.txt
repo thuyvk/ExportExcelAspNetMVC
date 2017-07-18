@@ -62,10 +62,9 @@ D:\GitHubs_Project\ExportExcelAspNetMVC\ExportExcelAspNetMVC\bin\Microsoft.AI.De
 D:\GitHubs_Project\ExportExcelAspNetMVC\ExportExcelAspNetMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\GitHubs_Project\ExportExcelAspNetMVC\ExportExcelAspNetMVC\bin\Microsoft.AI.WindowsServer.xml
 D:\GitHubs_Project\ExportExcelAspNetMVC\ExportExcelAspNetMVC\bin\Microsoft.AI.Web.xml
-D:\GitHubs_Project\ExportExcelAspNetMVC\ExportExcelAspNetMVC\obj\Debug\ExportExcelAspNetMVC.csprojResolveAssemblyReference.cache
 D:\GitHubs_Project\ExportExcelAspNetMVC\ExportExcelAspNetMVC\obj\Debug\ExportExcelAspNetMVC.dll
 D:\GitHubs_Project\ExportExcelAspNetMVC\ExportExcelAspNetMVC\obj\Debug\ExportExcelAspNetMVC.pdb
-D:\GitHubs_Project\ExportExcelAspNetMVC\ExportExcelAspNetMVC\bin\ClosedXML.dll
 D:\GitHubs_Project\ExportExcelAspNetMVC\ExportExcelAspNetMVC\bin\DocumentFormat.OpenXml.dll
+D:\GitHubs_Project\ExportExcelAspNetMVC\ExportExcelAspNetMVC\bin\ClosedXML.dll
 D:\GitHubs_Project\ExportExcelAspNetMVC\ExportExcelAspNetMVC\bin\ClosedXML.pdb
 D:\GitHubs_Project\ExportExcelAspNetMVC\ExportExcelAspNetMVC\bin\ClosedXML.xml

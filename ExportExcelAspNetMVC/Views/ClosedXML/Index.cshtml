@@ -1,0 +1,28 @@
+﻿@model List<ExportExcelAspNetMVC.Models.SampleData>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h3>Export Excel With ClosedXML</h3>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken();
+    <table class="table table-hover">
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Address</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.Phone</td>
+                <td>@item.Address</td>
+            </tr>
+        }
+    </table>
+    <a href="/ClosedXML/ExportExcel" class="btn btn-primary">Export Excel</a>
+}
